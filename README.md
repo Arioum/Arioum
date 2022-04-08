@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arioum
+- 👋 Hi, I’m Amogh Rao
 - 👀 I’m interested in Learning new things
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...
