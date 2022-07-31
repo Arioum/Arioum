@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Amogh Rao
 - 👀 I’m interested in Learning new things
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Front-end Web Apps
+- 📫 amoghrao121@gmail.com
 
 <!---
 Arioum/Arioum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
