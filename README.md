@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Front-end Web Apps
 - 📫 amoghrao121@gmail.com
 
-![JavaScript](https://www.svgrepo.com/show/303206/javascript-logo.svg)
+![JavaScript](https://www.svgrepo.com/show/303206/javascript-logo.svg/100)
 
 <!---
 Arioum/Arioum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
