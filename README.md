@@ -2,7 +2,6 @@
 - 👀 I’m interested in Learning new things
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Front-end Web Apps
-- 📫 amoghrao121@gmail.com
 
 ![Codewars](https://www.codewars.com/users/Arioum/badges/large)
 
