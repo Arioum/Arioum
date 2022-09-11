@@ -23,7 +23,7 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 
 
-### Badges
+### Badges:
 
 ![Codewars](https://www.codewars.com/users/Arioum/badges/small)
 
