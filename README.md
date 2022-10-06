@@ -6,7 +6,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🚀 &nbsp; I’m currently learning Full Stack Development and React Native.
 - 📫 &nbsp; How to reach me: amoghrao121@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/arioum).
 
