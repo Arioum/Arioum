@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Amogh Rao!](https://github.com/Arioum/)
+## Hey 👋, I'm [Amogh Rao!](https://github.com/Arioum/) ![](https://komarev.com/ghpvc/?username=arioum&style=flat-square)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/amogh-arioum)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://arioum.github.io/)
