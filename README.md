@@ -24,6 +24,9 @@
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 
+![](https://github-readme-stats.vercel.app/api?username=arioum&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arioum&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Badges:
 
