@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Amogh Rao!](https://github.com/Arioum/) 
+## Hey 👋, I'm [Amogh Rao!](https://github.com/Arioum/)
 
 ![](https://komarev.com/ghpvc/?username=arioum&style=for-the-badge&color=brightgreen)
 
