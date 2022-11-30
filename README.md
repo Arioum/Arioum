@@ -10,6 +10,7 @@
 
 - 🚀 &nbsp; I’m currently learning Full Stack Development and React Native.
 - 🎓 &nbsp; Studying Master's in Computer Applications.
+- 📱  &nbsp;&nbsp;  Love Front end Development.
 - 🙌 &nbsp; Passionate about building stuff.
 - 📫 &nbsp; How to reach me: amoghrao121@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/arioum).
@@ -35,7 +36,6 @@
 ### Badges:
 
 ![Codewars](https://www.codewars.com/users/Arioum/badges/small)<br>
-<img height="100" src="assets/hacktoberfest2022.png" alt="Hacktoberfest">
 <img height="100" src="assets/hacktoberfest2022_L1.png" alt="Hacktoberfest">
 <img height="100" src="assets/hacktoberfest2022_L2.png" alt="Hacktoberfest">
 <img height="100" src="assets/hacktoberfest2022_L3.png" alt="Hacktoberfest">
