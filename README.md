@@ -35,7 +35,6 @@
 
 ### Badges:
 
-![Codewars](https://www.codewars.com/users/Arioum/badges/small)<br>
 <img height="100" src="assets/hacktoberfest2022_L1.png" alt="Hacktoberfest">
 <img height="100" src="assets/hacktoberfest2022_L2.png" alt="Hacktoberfest">
 <img height="100" src="assets/hacktoberfest2022_L3.png" alt="Hacktoberfest">
