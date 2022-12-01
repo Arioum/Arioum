@@ -34,8 +34,9 @@
 
 
 ### Badges:
-
-<img height="100" src="assets/hacktoberfest2022_L1.png" alt="Hacktoberfest">
-<img height="100" src="assets/hacktoberfest2022_L2.png" alt="Hacktoberfest">
-<img height="100" src="assets/hacktoberfest2022_L3.png" alt="Hacktoberfest">
-<img height="100" src="assets/hacktoberfest2022_L4.png" alt="Hacktoberfest">
+<div style="display:flex">
+  <img height="100" src="assets/hacktoberfest2022_L1.png" alt="Hacktoberfest">
+  <img height="100" src="assets/hacktoberfest2022_L2.png" alt="Hacktoberfest">
+  <img height="100" src="assets/hacktoberfest2022_L3.png" alt="Hacktoberfest">
+  <img height="100" src="assets/hacktoberfest2022_L4.png" alt="Hacktoberfest">
+</div>
