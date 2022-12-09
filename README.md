@@ -9,7 +9,7 @@
 
 - 🚀 &nbsp; I’m currently learning Full Stack Development and React Native.
 - 🎓 &nbsp; Studying Master's in Computer Applications.
-- 📱  &nbsp;&nbsp;  Love Front end Development.
+- 📱 &nbsp; Love Front end Development.
 - 🙌 &nbsp; Passionate about building stuff.
 - 📫 &nbsp; How to reach me: amoghrao121@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/arioum).
