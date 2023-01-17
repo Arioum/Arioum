@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=arioum&style=for-the-badge&color=brightgreen)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/amogh-arioum)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)]()
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/amoghrao20)
 
 ### Talking about Personal Stuffs:
 
@@ -34,8 +33,5 @@
 
 ### Badges:
 <div style="display:flex">
-  <img height="100" src="assets/hacktoberfest2022_L1.png" alt="Hacktoberfest">
-  <img height="100" src="assets/hacktoberfest2022_L2.png" alt="Hacktoberfest">
-  <img height="100" src="assets/hacktoberfest2022_L3.png" alt="Hacktoberfest">
   <img height="100" src="assets/hacktoberfest2022_L4.png" alt="Hacktoberfest">
 </div>
