@@ -27,9 +27,20 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 
-![](https://github-readme-stats.vercel.app/api?username=arioum&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arioum&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arioum&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arioum&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arioum&hide_border=true" />
+</details>
 
 ### Badges:
 <div style="display:flex">
