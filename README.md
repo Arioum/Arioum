@@ -27,6 +27,7 @@
 <code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' width=30></code>
 <code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' width=30></code>
 <code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width=30></code>
+<code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' width=30></code>
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
@@ -42,8 +43,9 @@
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arioum&hide_border=true" />
 </details>
-
+<!--
 ### Badges:
 <div style="display:flex">
   <img height="100" src="assets/hacktoberfest2022_L4.png" alt="Hacktoberfest">
 </div>
+
