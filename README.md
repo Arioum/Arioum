@@ -44,9 +44,8 @@
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arioum&hide_border=true" />
 </details>
-<!--
+
 ### Badges:
 <div style="display:flex">
   <img height="100" src="assets/hacktoberfest2022_L4.png" alt="Hacktoberfest">
 </div>
-
