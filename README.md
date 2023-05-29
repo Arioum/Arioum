@@ -16,7 +16,8 @@
 
 ### Languages and Tools:
 
-<code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width=30></code>
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript,jquery,react,next,nodejs,express,mongodb,postgresql,docker,git,figma&theme)](https://skillicons.dev)
+<!--
 <code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' width=30></code>
 <code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' width=30></code>
 <code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width=30></code>
@@ -29,7 +30,7 @@
 <code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' width=30></code>
 <code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width=30></code>
 <code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' width=30></code>
-
+-->
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
