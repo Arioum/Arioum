@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,py,cpp,react,next,nodejs,express,mongodb,postgresql,docker,git,figma&theme)
+![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,py,cpp,react,next,nodejs,express,mongodb,postgresql,aws,docker,git,figma&theme)
 <!--
 <code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' width=30></code>
 <code><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' width=30></code>
