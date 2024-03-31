@@ -12,7 +12,7 @@
 - 📱 &nbsp; Love Front end Development.
 - 🙌 &nbsp; Passionate about building stuff.
 - 📫 &nbsp; How to reach me: amoghrao121@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/arioum).
+- 📝 &nbsp; Checkout my [Resume]([https://github.com/arioum](https://drive.google.com/file/d/1OUG4SgrF7ixjq6k3iEMl2Gx41jaUgKFC/view)).
 
 ### Languages and Tools:
 
