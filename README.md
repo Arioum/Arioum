@@ -7,11 +7,11 @@
 
 ### Talking about Personal Stuffs:
 
-- 🚀 &nbsp; I’m currently learning Full Stack Development and React Native.
-- 🎓 &nbsp; Studying Master's in Computer Applications.
+- 🚀 &nbsp; I’m currently learning Full Stack Development and DevOps.
+- 🎓 &nbsp; Studying Masters of Computer Applications.
 - 📱 &nbsp; Love Front end Development.
 - 🙌 &nbsp; Passionate about building stuff.
-- 📫 &nbsp; How to reach me: amoghrao121@gmail.com.
+- 📫 &nbsp; How to reach me: amoghrao20.work@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1OUG4SgrF7ixjq6k3iEMl2Gx41jaUgKFC/view).
 
 ### Languages and Tools:
