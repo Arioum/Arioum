@@ -12,7 +12,7 @@
 - 📱 &nbsp; Love Front end Development.
 - 🙌 &nbsp; Passionate about building stuff.
 - 📫 &nbsp; How to reach me: amoghrao20.work@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1OUG4SgrF7ixjq6k3iEMl2Gx41jaUgKFC/view).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Vdjgd3HYA7MN35anDMzm_y2omzcvS_Ld/view?usp=sharing).
 
 ### Languages and Tools:
 
