@@ -8,7 +8,7 @@
 ### Talking about Personal Stuffs:
 
 - 🚀 &nbsp; I’m currently learning Full Stack Development and DevOps.
-- 🎓 &nbsp; Studying Masters of Computer Applications.
+- 🎓 &nbsp; Completed Masters of Computer Applications.
 - 📱 &nbsp; Love Front end Development.
 - 🙌 &nbsp; Passionate about building stuff.
 - 📫 &nbsp; How to reach me: amoghrao20.work@gmail.com.
@@ -35,7 +35,7 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arioum&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arioum&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arioum&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
